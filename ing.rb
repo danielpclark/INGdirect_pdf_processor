@@ -8,7 +8,6 @@ VERSION = 0.1
 # Version 0.1 functions well for collecting from all PDFs and dumping the output to STDOUT
 # Example usage: ruby ing.rb > output.txt
 
-require 'open-uri'
 require 'pdf-reader'
 
 
